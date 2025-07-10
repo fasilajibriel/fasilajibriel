@@ -1,4 +1,4 @@
-## Hi there, my name is Fasil A. Jibriel 👋
+```## Hi there, my name is Fasil A. Jibriel 👋```
 
 <!--
 **fasilajibriel/fasilajibriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+```
 @fasilajibriel  
 . OS: .............................. macOS, Ubuntu, Windows  
 . Experience: ...................... 5 years  
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 . DevOps: .......................... Docker, NGINX  
 
 - Projects  
-. Notable: ......................... [Milkii Micro-Lending](https://play.google.com/store/apps/details?id=et.nanoq.milkii&hl=en_GB)  (Ethiopia's collaborative banking platform)  
+. Notable: ......................... Milkii Micro-Lending [ PlayStore | AppStore ]
 . GitHub: .......................... 72 repos | 1,396 commits  
 
 - Contact  
@@ -40,3 +40,4 @@ Here are some ideas to get you started:
 . Hobbies: ......................... 3D Printing, Robotics, Basketball  
 . Hardware: ........................ Arduino, Raspberry Pi  
 . Creative: ........................ Graphics Design, Videography & Photography  
+```

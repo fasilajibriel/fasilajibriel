@@ -1,11 +1,12 @@
-```## Hi there, my name is Fasil A. Jibriel 👋```
-
-
+```
+## Hi there, my name is Fasil A. Jibriel 👋
+```
 
 ```
-@fasilajibriel  
-. OS: .............................. macOS, Ubuntu, Windows  
-. Experience: ...................... 5 years  
+[ @fasilajibriel ]
+
+. OS: .............................. macOS, Ubuntu, Windows,
+. Experience: ...................... 5+ years  
 . Host: ............................ Quantum Technologies  
 . Focus: ........................... FullStack | Mobile Applications  
 . IDE: ............................. VS Code, JetBrains  
@@ -15,17 +16,26 @@
 . Databases: ....................... PostgreSQL  
 . DevOps: .......................... Docker, NGINX  
 
-- Projects  
+[ PROJECTS ]
+
 . Notable: ......................... Milkii Micro-Lending [ PlayStore | AppStore ]
 . GitHub: .......................... 72 repos | 1,396 commits  
 
-- Contact  
+[ CONTACT ]
+
 . Email: ........................... fasilajibriel@gmail.com | contact@fasilajibriel.com  
-. LinkedIn: ........................ @fasilajibriel  
-. Telegram: ........................ @fasilajibriel  
-. Instagram: ....................... @fasilajibriel  
+. LinkedIn: ........................ https://www.linkedin.com/in/fasilajibriel
+. Telegram: ........................ https://t.me/fasilajibriel  
+. Instagram: ....................... https://instagram.com/fasilajibriel
+
+[ FUN ]
 
 . Hobbies: ......................... 3D Printing, Robotics, Basketball  
 . Hardware: ........................ Arduino, Raspberry Pi  
-. Creative: ........................ Graphics Design, Videography & Photography  
+. Creative: ........................ Graphics Design, Videography & Photography
+
+```
+
+```
+fasil@github:~$ |
 ```

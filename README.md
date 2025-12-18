@@ -5,21 +5,21 @@
 ```
 [ @fasilajibriel ]
 
-. OS: .............................. macOS, Ubuntu, Windows,
+. OS: .............................. MacOS, Ubuntu, Windows,
 . Experience: ...................... 5+ years  
-. Host: ............................ Quantum Technologies  
+. Host: ............................ ElevateU Technologies, Quantum Technologies  
 . Focus: ........................... FullStack | Mobile Applications  
 . IDE: ............................. VS Code, JetBrains  
 
-. Languages.Programming: ........... Dart, TypeScript, Java, SQL  
-. Frameworks: ...................... SpringBoot, Angular, Flutter  
+. Languages.Programming: ........... Dart, Java, TypeScript, SQL  
+. Frameworks: ...................... Flutter, SpringBoot, Next.Js  
 . Databases: ....................... PostgreSQL  
-. DevOps: .......................... Docker, NGINX  
+. DevOps: .......................... Docker, NGINX
 
 [ PROJECTS ]
 
 . Notable: ......................... Milkii Micro-Lending [ PlayStore | AppStore ]
-. GitHub: .......................... 72 repos | 1,396 commits  
+. GitHub: .......................... 88 repos | 1,872 commits  
 
 [ CONTACT ]
 
@@ -37,5 +37,5 @@
 ```
 
 ```
-fasil@github:~$ |
+fasilajibriel@github:~$ |
 ```
